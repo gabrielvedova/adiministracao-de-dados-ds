@@ -1,0 +1,4 @@
+10. Quais são as relações existentes entre Processamento de Linguagem Natural e Banco de Dados? Justifique a sua resposta e forneça dois exemplos de uso.
+
+
+A relação entre Processamento de Linguagem Natural (PLN) e Bancos de Dados é fundamental. Os Bancos de Dados armazenam dados textuais que são cruciais para treinar modelos de PLN e fornecem recursos para pré-processamento, consulta e armazenamento de metadados associados aos textos. Exemplos incluem análise de sentimentos em redes sociais, onde postagens são armazenadas em um Banco de Dados e analisadas por modelos de PLN, e extração de informações de documentos jurídicos, onde documentos legais são armazenados e processados por modelos de PLN.

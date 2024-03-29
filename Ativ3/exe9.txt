@@ -1,0 +1,4 @@
+9. Quais são as relações existentes entre Deep Learning e Banco de Dados? Justifique a sua resposta e forneça dois exemplos de uso.
+
+
+A relação entre Deep Learning (DL) e Bancos de Dados é crucial. Os Bancos de Dados armazenam os dados necessários para treinar modelos de DL e também armazenam os resultados e metadados associados a esses modelos. Eles fornecem um ambiente organizado e escalável para armazenar, gerenciar e pré-processar dados, além de permitir a recuperação de dados para treinamento e inferência dos modelos. Exemplos incluem reconhecimento de imagens em saúde, onde imagens médicas são armazenadas em um Banco de Dados e usadas para treinar modelos de DL, e tradução automática de texto, onde grandes volumes de texto são armazenados e usados para treinar modelos de DL para tradução.

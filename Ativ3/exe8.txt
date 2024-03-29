@@ -1,0 +1,3 @@
+8. Quais são as relações existentes entre Aprendizado de Máquina e Banco de Dados? Justifique a sua resposta e forneça dois exemplos de uso.
+
+A relação entre Aprendizado de Máquina (ML) e Bancos de Dados é fundamental. Os Bancos de Dados armazenam dados para treinar e implantar modelos de ML, fornecem para pré-processamento e consulta de recursos de dados, e armazenam resultados e metadados. Exemplos incluem detecção de fraudes financeiras, onde dados transacionais são armazenados e usados para treinar modelos de ML, e recomendação de produtos em negociações eletrônicas, onde dados de clientes e produtos são usados para personalizar recomendações.

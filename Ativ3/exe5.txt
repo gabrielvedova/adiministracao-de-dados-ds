@@ -1,0 +1,18 @@
+5. Descreva algumas diferenças e semelhanças entre planilhas eletrônicas, banco de dados, taxonomias, ontologias, tesauros, registros, data warehouse, data mart, data lake e data mesh?
+
+
+  Planilhas Eletrônicas : São como tabelas digitais que usamos para salvar informações de forma organizada, mas são limitadas em escala e funcionalidades.
+  
+  Banco de Dados : É como um arquivo gigante e poderoso onde guardamos informações de forma organizada e segura, ideal para grandes volumes de dados e análises complexas.
+  
+  Taxonomias, Ontologias e Tesauros : São formas de organizar palavras e conceitos em categorias e relações, auxiliando na busca e compreensão das informações.
+  
+  Registros : São como fichas individuais em um arquivo, cada uma contendo informações específicas.
+  
+  Data Warehouse : É como um grande armazém de dados históricos da empresa, organizado para análises.
+  
+  Data Mart : É um pedaço de armazenamento de dados, focado em atender às necessidades de um departamento específico.
+  
+  Data Lake : É como um lago gigante onde guardamos todos os tipos de dados da empresa, estruturados ou não.
+  
+  Data Mesh : É uma forma de organizar o acesso e gerenciamento de dados, distribuindo a responsabilidade entre os diferentes momentos da empresa.

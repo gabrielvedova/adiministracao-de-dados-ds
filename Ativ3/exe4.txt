@@ -1,0 +1,5 @@
+4. Defina o que é um sistema gerenciador de banco de dados (SGDB)? Dê exemplos de banco de dados existentes.
+
+  Um Sistema Gerenciador de Banco de Dados (SGBD) é como um organizador de informações digitais. Ele ajuda a armazenar grandes quantidades de dados, como nomes, números, dados, etc., de maneira organizada e segura. É como uma gaveta gigante onde você pode colocar e encontrar informações facilmente quando precisar delas.
+  Por exemplo, imagine que você tem uma lista de contatos em seu telefone. O SGBD seria como o aplicativo que ajuda a organizar esses contatos, permitindo que você adicione novos contatos, atualize informações existentes e encontre rapidamente um contato específico quando precisar ligar para alguém.
+  Alguns exemplos de SGBDs seriam como diferentes aplicativos de lista de contatos, cada um com seus próprios recursos e formas de organizar os dados. Por exemplo, você pode ter um aplicativo básico que vem com o telefone, ou pode optar por instalar um aplicativo mais avançado com recursos extras, como lembretes de aniversário ou categorização de contatos. Cada um desses aplicativos é como um tipo diferente de SGBD.

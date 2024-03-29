@@ -1,0 +1,4 @@
+11. Quais são as relações existentes entre Grandes Modelos de Linguagem (Large Language Model - LLM) e Banco de Dados? Justifique a sua resposta e forneça dois exemplos de uso.
+
+
+A relação entre Grandes Modelos de Linguagem (LLM) e Bancos de Dados é crucial para o treinamento, aprimoramento e implantação desses modelos. Os Bancos de Dados armazenam grandes volumes de texto usados para treinar os modelos, bem como os próprios modelos e dados associados. Durante o uso dos modelos, os Bancos de Dados são essenciais para recuperar informações relevantes. Exemplos incluem assistentes virtuais de atendimento ao cliente, onde um LLM é treinado com registros de conversas armazenados em um Banco de Dados, e tradução automática de textos, onde um LLM é treinado com documentos multilíngues armazenados em um Banco de Dados.

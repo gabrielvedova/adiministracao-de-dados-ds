@@ -1,0 +1,4 @@
+7. Quais são as relações existentes entre Big Data e Banco de Dados?Justifique a sua resposta e forneça dois exemplos de uso.
+
+
+Big Data e Bancos de Dados estão interligados, embora tenham diferenças. Big Data lida com conjuntos de dados grandes e variados, exigindo processamento rápido. Bancos de dados tradicionais são os melhores para dados estruturados. No entanto, muitas soluções de Big Data utilizam tecnologias de Bancos de Dados. Exemplos incluem análise de redes sociais, onde dados são processados em Big Data, mas informações de usuário são armazenadas em Bancos de Dados, e análise de dados de sensores, onde dados em tempo real são processados em Big Data, enquanto informações de configuração são mantidas em Bancos de Dados.
